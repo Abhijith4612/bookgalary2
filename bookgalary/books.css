@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+.hd{
+    width: 1356px;
+    background: rgb(218, 108, 212);
+    padding: 8px;
+    margin-right:  646px;
+    
+    height: 86px;
+}
+.ht{
+    text-align: center;
+    padding: 7px;
+    color: aliceblue;
+    margin-right: 820px;
+   
+}
+.fm{
+    margin-left: 407px;
+    margin-top: -71px;
+    border-radius: 20px;
+}
+.my{
+    margin-top: -47px;
+    margin-left: 715px;
+    color: wheat;
+}
+.sh{
+    border-radius: 10px;
+    color: blue;
+}
+.bn{
+    border-radius: 10px;
+    color: blue;
+}
+.bx{
+    
+    background-color: rgb(86, 45, 102);
+    color: antiquewhite;
+    border: 5px rgb(218, 108, 212) solid;
+    width: 22%;
+    float: left;
+    padding: 15px;
+    border-radius: 0px;
+}
+img{
+    width: 284px;
+    height: 267px;
+}
